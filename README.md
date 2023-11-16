@@ -22,6 +22,7 @@ Data mining involves extracting patterns, information, and knowledge from large 
 
 ### 2. Apriori Algorithm
 - **Description:** The Apriori algorithm is used for association rule mining in large datasets.
+- **Links:**https://towardsdatascience.com/data-mining-market-basket-analysis-with-apriori-algorithm-970ff256a92c
 - **Implementation:** [apriori_algorithm.ipynb](src/apriori_algorithm.ipynb)
 
 ### 3. FP-Growth Algorithm
