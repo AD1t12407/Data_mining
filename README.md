@@ -41,6 +41,10 @@ Data mining involves extracting patterns, information, and knowledge from large 
 ## Usage
 Each algorithm is implemented as a standalone script. Run these scripts individually with your datasets. Refer to the specific algorithm's source code for details on input formats and parameters.
 
+## links to datasets
+### kaggle:missing values:https://www.kaggle.com/code/alexisbcook/missing-values/tutorial
+
+
 ```bash
 python src/attribute_oriented_induction_algorithm.ipynb
 python src/apriori_algorithm.ipynb
